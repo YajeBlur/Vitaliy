@@ -1,0 +1,7 @@
+﻿.calendar{
+	width: 150px;
+	padding: 15px 42px 15px 5px;
+	border-radius: 5px;
+	background: url(calend_icon.png) no-repeat 160px 5px red;
+	box-shadow: 2px 5px 5px #000;
+}

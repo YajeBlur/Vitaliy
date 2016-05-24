@@ -1,0 +1,13 @@
+﻿div{
+	width: 200px;
+	height: 600px;
+	padding: 25px 25px;
+	border: 2px double;
+	border-color: red green blue yellow;
+	
+}
+div#one{
+	border-width: 25px 10px 15px 5px;
+	border-color: red blur;
+	border-style: solid;
+}

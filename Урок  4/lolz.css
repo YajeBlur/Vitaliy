@@ -1,0 +1,12 @@
+﻿#demo{
+	border: 5px dotted gray;
+	padding: 50px;
+	width: 200px;
+	height: 200px;
+	margin: 20px auto 0 auto;
+	background-color: #000;
+	background-image: url(navi.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: contain;
+}
